@@ -30,4 +30,5 @@ Socket.IO – Enables WebSocket-based real-time communication.
 Vanilla JavaScript – No frameworks needed for simplicity.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/bf8fb943-be1b-4a83-b4f7-1b4bde2438e1)
 
