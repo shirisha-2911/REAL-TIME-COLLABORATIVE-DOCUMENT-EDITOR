@@ -12,6 +12,7 @@ DOMAIN: REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR
 
 *MENTOR*: NEELA SANTOSH
 
+#DESCRIPTION
 #Backend API (Node.js/Express)
 WebSocket API (Socket.IO)
 content-update: Broadcasts text changes to all connected clients.
